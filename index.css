@@ -1,0 +1,9 @@
+.img-round {
+    border-radius: 35%;
+    border: 1px solid black;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
